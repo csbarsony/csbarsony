@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @csbarsony
-- 👀 I’m interested in coding and space rockets.
+- 👋 Hi, I’m Csaba Bársony (@csbarsony)
+- 👀 I’m interested in IT and economics.
 - 🌱 I’m currently learning C#. 
 - 📫 How to reach me barsony.csaba13@gmail.com
 
-My Name is Csaba. I am currently a student. I am interested in space technology and coding, and I would like to work as software engineer at a rocket company. 
-My other passion in coding is cyber security.
+My name is Csaba. I'm a uni student at Óbuda University, in Hungary. 
 
 <!---
 csbarsony/csbarsony is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
